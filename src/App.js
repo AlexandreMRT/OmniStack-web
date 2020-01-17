@@ -48,7 +48,9 @@ function App() {
       longitude,
     })
 
-    console.log(response.data);
+
+    setGithub_Username('');
+    setTechs('');
   }
 
 
