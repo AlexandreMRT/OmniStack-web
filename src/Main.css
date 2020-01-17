@@ -22,13 +22,13 @@ li.dev-item {
   padding: 20px;
 }
 
-li .dev-item header {
+li.dev-item header {
   display: flex;
   flex-direction: row;
   align-items: center;
 }
 
-li .dev-item header img {
+li.dev-item header img {
   width: 54px;
   height: 54px;
   border-radius: 50%;
